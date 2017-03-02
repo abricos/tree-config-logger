@@ -1,4 +1,4 @@
-# tree-config-winston
+# tree-config-logger
 
 TreeConfig logger plugin by Winston
 
@@ -6,5 +6,5 @@ TreeConfig logger plugin by Winston
 
 Installation is fairly straightforward, just install the npm module:
 
-    $ npm install tree-config-winston
+    $ npm install tree-config-logger
 
